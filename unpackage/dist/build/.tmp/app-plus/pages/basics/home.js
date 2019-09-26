@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/basics/home"],{"57ac":function(n,c,e){"use strict";(function(n){Object.defineProperty(c,"__esModule",{value:!0}),c.default=void 0;var e={name:"basics",data:function(){return{elements:[{title:"布局",name:"layout",color:"cyan",cuIcon:"newsfill"},{title:"背景",name:"background",color:"blue",cuIcon:"colorlens"},{title:"文本",name:"text",color:"purple",cuIcon:"font"},{title:"图标 ",name:"icon",color:"mauve",cuIcon:"cuIcon"},{title:"按钮",name:"button",color:"pink",cuIcon:"btn"},{title:"标签",name:"tag",color:"brown",cuIcon:"tagfill"},{title:"头像",name:"avatar",color:"red",cuIcon:"myfill"},{title:"进度条",name:"progress",color:"orange",cuIcon:"icloading"},{title:"边框阴影",name:"shadow",color:"olive",cuIcon:"copy"},{title:"加载",name:"loading",color:"green",cuIcon:"loading2"}]}},onShow:function(){console.log(n("success"," at pages\\basics\\home.vue:88"))}};c.default=e}).call(this,e("0de9")["default"])},"839b":function(n,c,e){"use strict";e.r(c);var o=e("57ac"),t=e.n(o);for(var a in o)"default"!==a&&function(n){e.d(c,n,function(){return o[n]})}(a);c["default"]=t.a},a8c7:function(n,c,e){"use strict";var o=e("c7ce"),t=e.n(o);t.a},c7ce:function(n,c,e){},cde6:function(n,c,e){"use strict";e.r(c);var o=e("de9c"),t=e("839b");for(var a in t)"default"!==a&&function(n){e.d(c,n,function(){return t[n]})}(a);e("a8c7");var l=e("2877"),u=Object(l["a"])(t["default"],o["a"],o["b"],!1,null,null,null);c["default"]=u.exports},de9c:function(n,c,e){"use strict";var o=function(){var n=this,c=n.$createElement;n._self._c},t=[];e.d(c,"a",function(){return o}),e.d(c,"b",function(){return t})}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/basics/home-create-component',
+    {
+        'pages/basics/home-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("cde6"))
+        })
+    },
+    [['pages/basics/home-create-component']]
+]);                

@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/about/about",
+    "pages/about/contactus",
+    "pages/login/login",
+    "pages/demo/demo",
+    "pages/demo/list",
+    "pages/demo/list4select",
+    "pages/demo/form",
+    "pages/demo/search",
+    "pages/demo/formValidate"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "Uniapp-demo",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "UniApp-demo",
+  "compilerVersion": "2.2.2",
+  "usingComponents": {
+    "home": "/pages/home/home",
+    "about": "/pages/about/about",
+    "basics": "/pages/basics/home",
+    "components": "/pages/component/home",
+    "plugin": "/pages/plugin/home",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

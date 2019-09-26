@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleClick',['$event']]]]]}}" class="cu-form-group" bindtap="__e"><view class="title">{{title}}</view><view class="uni-picker"><view class="_div"><view class="picker"><block wx:if="{{myText==''||myText==null}}"><text class="text-gray text-sm">点击选择</text></block><block wx:else><text>{{myText}}</text></block></view></view></view></view>

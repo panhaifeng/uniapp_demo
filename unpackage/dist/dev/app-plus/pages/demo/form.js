@@ -1,0 +1,2 @@
+setCssToHead(["wx-input { text-align: right; }\n::-webkit-input-placeholder { text-align:right; }\nwx-input:-moz-placeholder { text-align:right; }\n",],"Some selectors are not allowed in component wxss, including tag name selectors, ID selectors, and attribute selectors.(./pages/demo/form.wxss:6:1)",{path:"./pages/demo/form.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/demo/form.wxml') } }));

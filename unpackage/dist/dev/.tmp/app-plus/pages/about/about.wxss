@@ -1,0 +1,25 @@
+
+.header {
+	
+	
+	
+	padding: 120rpx 30rpx 40rpx 30rpx;
+	
+	background-color: #ffd655;
+	/* background: url(http://122.152.205.72:88/group1/M00/00/03/CpoxxFwu_10AYFAIAAAO_Q1tPg693.png) repeat; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	height: 300rpx;
+}
+
